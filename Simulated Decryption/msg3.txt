@@ -1,0 +1,8 @@
+Mr. Moran,
+
+My agent will meet you in person for the exchange. Hand him the diamond, and he will hand you the money. When you approach him, say the secret phrase that I attached to confirm your identity. 
+
+To protect my agent's identity from those nosy detectives, I have encrypted the description of his physical appearance. For the encryption, I used a cipher in ECB mode with a very secret key that we exchanged a long time ago. The plaintext is a BMP file.
+
+Sincerely,
+Prof. Moriarty

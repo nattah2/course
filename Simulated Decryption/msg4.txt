@@ -1,0 +1,8 @@
+Mr. Moran,
+
+My agent is 6 feet tall and has short dark hair. He will be wearing a red fedora hat and holding a yellow umbrella. You are meeting him in London, so I suggest you take an umbrella too.
+
+To evade the detectives, I have encrypted the clue to the location of the meeting (cipher4B.txt) using AES in CTR mode with a very secret key. I have also encrypted and attached the secret phrase (cipher4A.txt), which you must say to confirm your identity to my agent. I have sent this before (plain4A.txt), but I want to make sure that you have it, so I have attached it again.
+
+Sincerely,
+Professor Moriarty

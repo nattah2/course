@@ -1,0 +1,8 @@
+#+title: Readme
+
+Exercises in dealing with decrypting various encryption modes and whatnot for Professor Huang's cybersecurity class. Because these are just simple exercises I've left the whole thing available so if I ever come back to this I can tell what exactly I was trying to do.
+
+Worth remembering
+- Block ciphers vs stream ciphers, and the different types of attacks for each
+  + In this exercise the block cipher we work with is just ECB so it's prone to being rearranged.
+- The necessity of an IV.

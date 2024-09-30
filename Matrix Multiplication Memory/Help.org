@@ -1,0 +1,20 @@
+#+title: Help
+
+* Number 1)
+Fira
+
+* Number 2)
+
+* Number 3)
+
+* Number 4)
+#+begin_src cpp
+int i, j, x
+while (std::getline(std::cin, input)) {
+    std::stringstream s(input);
+    s >> i >> j >> x;
+    M[i, j] += x;
+}
+* Number 6)
+
+* Number 7)

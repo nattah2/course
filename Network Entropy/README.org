@@ -1,0 +1,16 @@
+* COSC 3360 Project 3
+This project implement's Professor Rincon's entropy scheduling algorithm over a server.
+
+To use, compile the client and server with ~make~ and run as follows:
+
+#+begin_src bash
+./client hostname port
+#+end_src
+
+Once a connection is opened, the client expects input in the same format given by the prompt, e.g.
+
+#+begin_quote
+A 2 B 4 C 3 A 7
+#+end_quote
+
+where the letters represent a task and the numbers represent the length of time that the task takes.

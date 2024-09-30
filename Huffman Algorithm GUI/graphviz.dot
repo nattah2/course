@@ -1,0 +1,4 @@
+import graphviz
+
+dot = graphviz.Digraph('Penis', comment='pox')
+dot.node('A', 0)

@@ -1,0 +1,5 @@
+#+title: Huffman Visualization
+
+This very incredibly specific program exists to visualize the Huffman tree, i.e. a form of compression, locally. While it's impossible to say why you'd need such a thing, if for example you had an exam that allowed notes on your computer but without access to the Internet that asked you to construct a Huffman tree manually, this could be useful in that exact scenario.
+
+It depends on having a Graphviz installation ready, so go do that. Just install it off Pip.

@@ -1,0 +1,10 @@
+Mr. Moran,
+
+I have encrypted the exact location of the meeting. You may decrypt the ciphertext using the following information:
+- plaintext is a BMP file;
+- encryption is AES in CBC mode with ISO10126Padding padding;
+- IV is 16 zero bytes;
+- key is my birthdate: first byte is the year (just two digits, i.e., number between 0 and 99), second byte is the month, third byte is the day, and the remaining bytes are all zero.
+
+Sincerely,
+Professor Moriarty

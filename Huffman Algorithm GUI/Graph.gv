@@ -1,0 +1,40 @@
+digraph "Graph" {
+	node [shape=record]
+	0 [label=80]
+	1 [label=34]
+	2 [label=17]
+	3 [label=8]
+	F [label="F|4"]
+	4 [label=4]
+	I [label="I|1"]
+	B [label="B|3"]
+	4 -> I
+	4 -> B
+	3 -> F
+	3 -> 4
+	C [label="C|9"]
+	2 -> 3
+	2 -> C
+	J [label="J|17"]
+	1 -> 2
+	1 -> J
+	5 [label=46]
+	6 [label=21]
+	H [label="H|9"]
+	7 [label=12]
+	G [label="G|6"]
+	D [label="D|6"]
+	7 -> G
+	7 -> D
+	6 -> H
+	6 -> 7
+	8 [label=25]
+	A [label="A|12"]
+	E [label="E|13"]
+	8 -> A
+	8 -> E
+	5 -> 6
+	5 -> 8
+	0 -> 1
+	0 -> 5
+}
